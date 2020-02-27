@@ -10,3 +10,5 @@ Project 3: Python Stock Scraper - A Python Web Scraper that gets information of 
 
 Project 4: Daily Returns - A Python Script that plots S&P Returns and Stock Price over ten years. 
 
+Project 5: Economic Indicators - A Python Script that plots Economic Indicators of the EU.
+
